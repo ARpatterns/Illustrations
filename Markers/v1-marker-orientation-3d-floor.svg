@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="768.13" height="245.01" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768.13 245.01">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #ff6e00;
+      }
+    </style>
+    <symbol id="a" data-name="Orientation 3D Floor" viewBox="0 0 768.13 245.01">
+      <g>
+        <polygon class="d" points="306.37 122.31 407.95 131.63 437.26 99.23 471.71 102.39 432.45 145.78 296.42 133.3 306.37 122.31"/>
+        <polygon class="c" points="273.22 245.01 768.13 157.75 494.91 0 0 87.27 273.22 245.01"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="768.13" height="245.01" xlink:href="#a"/>
+</svg>

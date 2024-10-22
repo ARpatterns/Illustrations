@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="140.27" height="44.74" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 140.27 44.74">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #ff6e00;
+      }
+    </style>
+    <symbol id="a" data-name="Offset 3D Floor" viewBox="0 0 140.27 44.74">
+      <g>
+        <polygon class="c" points="140.27 28.81 49.89 44.74 0 15.94 90.38 0 140.27 28.81"/>
+        <polygon class="d" points="58.66 15.75 49.35 26.04 81.61 29 90.92 18.71 58.66 15.75 58.66 15.75"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="140.27" height="44.74" xlink:href="#a"/>
+</svg>

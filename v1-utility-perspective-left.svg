@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="277.89" height="353.87" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 277.89 353.87">
+  <defs>
+    <style>
+      .c {
+        fill: #00b289;
+      }
+    </style>
+    <symbol id="a" data-name="Plane Backwall" viewBox="0 0 277.89 353.87">
+      <polygon class="c" points="0 49 277.89 0 277.89 304.87 0 353.87 0 49"/>
+    </symbol>
+  </defs>
+  <use width="277.89" height="353.87" xlink:href="#a"/>
+</svg>

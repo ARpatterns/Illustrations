@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="53.08" height="67.04" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 53.08 67.04">
+  <defs>
+    <style>
+      .c, .d {
+        fill: none;
+      }
+
+      .d {
+        stroke: #90ff00;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <symbol id="a" data-name="Detected Grid Component 3D" viewBox="0 0 53.08 67.04">
+      <g>
+        <polygon class="c" points=".22 9.28 52.87 0 52.87 57.76 .22 67.04 .22 9.28"/>
+        <line class="d" x1="26.54" y1="4.64" x2="26.54" y2="62.4"/>
+        <line class="d" x1=".22" y1="38.16" x2="52.87" y2="28.88"/>
+        <polygon class="c" points="52.87 57.76 .22 67.04 .22 9.28 52.87 0 52.87 57.76"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="53.08" height="67.04" xlink:href="#a"/>
+</svg>

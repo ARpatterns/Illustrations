@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="c" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="421.62" height="536.35" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 421.62 536.35">
+  <defs>
+    <style>
+      .d, .e {
+        fill: none;
+      }
+
+      .e {
+        stroke: #90ff00;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <symbol id="a" data-name="Detected Grid 3D" viewBox="0 0 421.62 536.35">
+      <g>
+        <use width="53.08" height="67.04" transform="translate(263.24 18.57)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 27.85)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 76.33)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 85.61)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 9.28)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 57.76)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 67.04)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 134.09)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 143.37)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 191.85)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 201.13)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 115.52)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 124.81)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 173.28)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 182.57)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 55.7)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 64.98)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 113.46)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 122.74)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 37.13)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 46.42)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 94.89)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 104.18)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 171.22)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 180.51)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 228.98)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 238.27)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 152.66)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 161.94)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 210.42)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 219.7)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 249.61)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 258.89)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 307.37)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 316.66)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 231.04)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 240.33)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 288.81)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 298.09)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 365.13)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 374.42)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(263.24 422.89)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(210.59 432.18)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 346.57)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 355.85)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(368.54 404.33)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(315.89 413.61)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 286.74)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 296.03)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 344.51)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 353.79)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 268.18)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 277.46)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 325.94)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 335.22)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 402.27)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 411.55)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(52.65 460.03)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(0 469.31)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 383.7)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 392.98)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(157.94 441.46)" xlink:href="#b"/>
+        <use width="53.08" height="67.04" transform="translate(105.3 450.74)" xlink:href="#b"/>
+      </g>
+    </symbol>
+    <symbol id="b" data-name="Detected Grid Component 3D" viewBox="0 0 53.08 67.04">
+      <g>
+        <polygon class="d" points=".22 9.28 52.87 0 52.87 57.76 .22 67.04 .22 9.28"/>
+        <line class="e" x1="26.54" y1="4.64" x2="26.54" y2="62.4"/>
+        <line class="e" x1=".22" y1="38.16" x2="52.87" y2="28.88"/>
+        <polygon class="d" points="52.87 57.76 .22 67.04 .22 9.28 52.87 0 52.87 57.76"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="421.62" height="536.35" xlink:href="#a"/>
+</svg>

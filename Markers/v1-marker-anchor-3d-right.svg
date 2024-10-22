@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="50.2" height="126.65" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.2 126.65">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #ff6e00;
+      }
+    </style>
+    <symbol id="a" data-name="Offset 3D Sidewall" viewBox="0 0 50.2 126.65">
+      <g>
+        <polygon class="c" points="50.2 126.65 0 97.67 0 0 50.2 28.98 50.2 126.65"/>
+        <polygon class="d" points="25.1 40.87 13.56 56.66 25.1 85.79 36.64 69.99 25.1 40.87 25.1 40.87"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="50.2" height="126.65" xlink:href="#a"/>
+</svg>

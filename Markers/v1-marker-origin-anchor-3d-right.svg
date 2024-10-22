@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="d" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="50.2" height="126.65" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.2 126.65">
+  <defs>
+    <style>
+      .e {
+        fill: none;
+      }
+
+      .f {
+        fill: #ff6e00;
+      }
+    </style>
+    <symbol id="a" data-name="Anchor 3D Sidewall" viewBox="0 0 50.2 126.65">
+      <g>
+        <polygon class="e" points="50.2 126.65 0 97.67 0 0 50.2 28.98 50.2 126.65"/>
+        <path class="f" d="M25.1,31.79c8.94,5.16,16.21,23.51,16.21,40.9,0,17.39-7.27,27.34-16.21,22.18-8.94-5.16-16.21-23.51-16.21-40.9,0-17.39,7.27-27.34,16.21-22.18M25.1,14.49C11.24,6.49,0,21.86,0,48.83c0,26.97,11.24,55.32,25.1,63.33,13.86,8,25.1-7.37,25.1-34.34,0-26.97-11.24-55.32-25.1-63.33h0Z"/>
+      </g>
+    </symbol>
+    <symbol id="b" data-name="Anchor+Offset 3D Sidewall" viewBox="0 0 50.2 126.65">
+      <g>
+        <use width="50.2" height="126.65" xlink:href="#a"/>
+        <use width="50.2" height="126.65" transform="translate(0 0)" xlink:href="#c"/>
+      </g>
+    </symbol>
+    <symbol id="c" data-name="Offset 3D Sidewall" viewBox="0 0 50.2 126.65">
+      <g>
+        <polygon class="e" points="50.2 126.65 0 97.67 0 0 50.2 28.98 50.2 126.65"/>
+        <polygon class="f" points="25.1 40.87 13.56 56.66 25.1 85.79 36.64 69.99 25.1 40.87 25.1 40.87"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="50.2" height="126.65" xlink:href="#b"/>
+</svg>

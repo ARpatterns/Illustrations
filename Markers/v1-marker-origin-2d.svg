@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="112.94" height="112.94" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 112.94 112.94">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #ff6e00;
+      }
+    </style>
+    <symbol id="a" data-name="Anchor 2D" viewBox="0 0 112.94 112.94">
+      <g>
+        <rect class="c" y="0" width="112.94" height="112.94"/>
+        <path class="d" d="M56.47,20c20.11,0,36.47,16.36,36.47,36.47s-16.36,36.47-36.47,36.47-36.47-16.36-36.47-36.47S36.36,20,56.47,20M56.47,0C25.28,0,0,25.28,0,56.47s25.28,56.47,56.47,56.47,56.47-25.28,56.47-56.47S87.66,0,56.47,0h0Z"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="112.94" height="112.94" xlink:href="#a"/>
+</svg>

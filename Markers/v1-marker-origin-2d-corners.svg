@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="1838" height="999.18" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1838 999.18">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+        stroke: #ff6e00;
+        stroke-width: 18px;
+      }
+    </style>
+    <symbol id="a" data-name="Anchor Corners 2D" viewBox="0 0 1838 999.18">
+      <g>
+        <polyline class="c" points="1729 9 1829 9 1829 109"/>
+        <polyline class="c" points="1829 890.18 1829 990.18 1729 990.18"/>
+        <polyline class="c" points="9 109 9 9 108.06 9"/>
+        <polyline class="c" points="108.06 990.18 9 990.18 9 890.18"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="1838" height="999.18" xlink:href="#a"/>
+</svg>

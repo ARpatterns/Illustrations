@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Background" xmlns="http://www.w3.org/2000/svg" width="413.9" height="419.3" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 413.9 419.3">
+  <defs>
+    <style>
+      .c {
+        fill: #b2d2ff;
+        opacity: .7;
+      }
+
+      .d {
+        fill: #006aff;
+        opacity: .3;
+      }
+
+      .e {
+        stroke-width: 8px;
+      }
+
+      .e, .f {
+        stroke: #006aff;
+      }
+
+      .e, .f, .g {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .f, .g {
+        stroke-width: 4px;
+      }
+
+      .g {
+        stroke: #80b5ff;
+      }
+    </style>
+    <symbol id="a" data-name="Augmented Cube" viewBox="0 0 610.02 623.54">
+      <g>
+        <g>
+          <g>
+            <polygon class="c" points="388.95 4 4 71.88 221.07 197.2 606.02 129.32 388.95 4"/>
+            <polygon class="f" points="388.95 4 4 71.88 221.07 197.2 606.02 129.32 388.95 4"/>
+          </g>
+          <g>
+            <line class="d" x1="388.95" y1="426.34" x2="388.95" y2="4"/>
+            <line class="g" x1="388.95" y1="426.34" x2="388.95" y2="4"/>
+          </g>
+          <polygon class="g" points="388.95 424.75 4 492.63 221.07 617.95 606.02 550.08 388.95 424.75"/>
+          <g>
+            <polygon class="c" points="221.07 197.2 606.02 129.32 606.02 551.66 221.07 619.54 221.07 197.2"/>
+            <polygon class="f" points="221.07 197.2 606.02 129.32 606.02 551.66 221.07 619.54 221.07 197.2"/>
+          </g>
+          <g>
+            <polygon class="c" points="4 71.88 221.07 197.2 221.07 619.54 4 494.21 4 71.88"/>
+            <polygon class="f" points="4 71.88 221.07 197.2 221.07 619.54 4 494.21 4 71.88"/>
+          </g>
+        </g>
+        <polygon class="e" points="388.95 4 4 71.88 4 494.21 221.07 619.54 606.02 551.66 606.02 129.32 388.95 4"/>
+      </g>
+    </symbol>
+  </defs>
+  <use width="610.02" height="623.54" transform="translate(17.55 16.05) scale(.62)" xlink:href="#a"/>
+</svg>
